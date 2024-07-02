@@ -1,14 +1,8 @@
 # Проект foodgram-project-react
 
-![Yamdb Workflow Status](https://github.com/rusinovada/foodgram-project-react/actions/workflows/foodgram_workflow.yml/badge.svg?branch=master&event=push)
-
 ## Описание проекта
 
 «Продуктовый помощник»: сайт, на котором пользователи будут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов. Сервис «Список покупок» позволит пользователям создавать список продуктов, которые нужно купить для приготовления выбранных блюд.
-
-## Проект в интернете
-
-Проект запущен и доступен по [адресу](http://178.154.231.253/recipes/)
 
 ## Шаблон наполнения .env
 
@@ -63,4 +57,3 @@ docker-compose exec backend python manage.py dumpdata > fixtures.json
 ### Разработчики
 
 * [Дарья Русинова](https://github.com/rusinovada)
-* Верный друг - Круассан
